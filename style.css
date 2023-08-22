@@ -1,0 +1,15 @@
+h1{
+    color: black;
+    background-color: rgb(226, 174, 43);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p{
+    color: rgb(3, 3, 3);
+    font-weight: bolder;
+}
+#primeiro{
+    color: blue;
+}
+.favoritas{
+    color: red;
+}

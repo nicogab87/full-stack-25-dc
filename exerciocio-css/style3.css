@@ -1,0 +1,58 @@
+* {
+margin: 0;
+padding: 0;
+}
+
+.cabecalho{
+    height: 65px;
+    padding: 0 18px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 2px solid #d9dbe0;
+}
+
+.links{
+    display: flex;
+    gap: 60px;
+}
+
+.link{
+    text-decoration: none;
+    color: black;
+}
+
+.link:hover{
+    color: blue;
+}
+
+.section-key {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    padding: 0 50px;
+  }
+  
+  .cards {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .card {
+    max-width: 250px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+  
+  .card img {
+    max-width: 140px;
+    max-height: 140px;
+  }
+  
+  .title-span {
+      display: block;
+      color: grey;
+  }

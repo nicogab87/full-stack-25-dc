@@ -1,0 +1,19 @@
+.div-pai{
+    height: 200px;
+    width: 300px;
+    border: 1px dotted red;
+    padding: 10px;
+
+}
+.div-card{
+    height: 80px;
+    width: 120px;
+    border: 1px;
+    margin: 10px;
+    background-color: aquamarine;
+    font-size: 18px;
+    color: black;
+    text-transform: lowercase;
+    text-align: center;
+flex-direction: row-reverse;
+}
